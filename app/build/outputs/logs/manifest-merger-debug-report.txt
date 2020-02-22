@@ -1,0 +1,108 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/34555d386a7eb9ea3045ff1382069509/appcompat-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/98ae252499136acc1b719b648cf37a02/support-fragment-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/92f6bd40a5000c8ba369b9b586b9dc2a/animated-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/889cd5312b1c8a80b5f802fedec61c8e/support-core-ui-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/170b8b5178685929da25528d81b6007c/support-core-utils-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/d9f0ccfcd486ba9dee199b5a21775b63/support-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/d694d7513e1ca99c176cc55df91d4662/support-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mac126/.gradle/caches/transforms-2/files-2.1/06e084fcde9c4549fc294d5fcf377d7c/livedata-core-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mac126/.gradle/caches/transforms-2/files-2.1/58707b756588e8d18ddbe512adc6dcdf/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mac126/.gradle/caches/transforms-2/files-2.1/3760d8ea4fed3bd7e04285d253c1b3a4/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mac126/.gradle/caches/transforms-2/files-2.1/3a180f34418bc86b05d3c330452a2346/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:7:5-47
+INJECTED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:7:5-47
+INJECTED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:7:5-47
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/34555d386a7eb9ea3045ff1382069509/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/34555d386a7eb9ea3045ff1382069509/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/98ae252499136acc1b719b648cf37a02/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/98ae252499136acc1b719b648cf37a02/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/92f6bd40a5000c8ba369b9b586b9dc2a/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/92f6bd40a5000c8ba369b9b586b9dc2a/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/889cd5312b1c8a80b5f802fedec61c8e/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/889cd5312b1c8a80b5f802fedec61c8e/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/170b8b5178685929da25528d81b6007c/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/170b8b5178685929da25528d81b6007c/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/d9f0ccfcd486ba9dee199b5a21775b63/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/d9f0ccfcd486ba9dee199b5a21775b63/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/d694d7513e1ca99c176cc55df91d4662/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mac126/.gradle/caches/transforms-2/files-2.1/d694d7513e1ca99c176cc55df91d4662/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mac126/.gradle/caches/transforms-2/files-2.1/06e084fcde9c4549fc294d5fcf377d7c/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mac126/.gradle/caches/transforms-2/files-2.1/06e084fcde9c4549fc294d5fcf377d7c/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mac126/.gradle/caches/transforms-2/files-2.1/58707b756588e8d18ddbe512adc6dcdf/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mac126/.gradle/caches/transforms-2/files-2.1/58707b756588e8d18ddbe512adc6dcdf/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mac126/.gradle/caches/transforms-2/files-2.1/3760d8ea4fed3bd7e04285d253c1b3a4/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mac126/.gradle/caches/transforms-2/files-2.1/3760d8ea4fed3bd7e04285d253c1b3a4/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mac126/.gradle/caches/transforms-2/files-2.1/3a180f34418bc86b05d3c330452a2346/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mac126/.gradle/caches/transforms-2/files-2.1/3a180f34418bc86b05d3c330452a2346/runtime-1.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:7:5-47
+INJECTED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:7:5-47
+	android:targetSdkVersion
+		ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:7:15-44
+		INJECTED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:7:5-47
+		INJECTED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:9:2-67
+	android:name
+		ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:9:19-65
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:10:2-63
+	android:name
+		ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:10:19-61
+application
+ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:12:5-26:19
+	android:label
+		ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.gyz.voipdemo_speex.activity.MainActivity
+ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:18:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/AndroidManifest.xml:23:27-74

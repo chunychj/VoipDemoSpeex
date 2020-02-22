@@ -1,0 +1,60 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/mac126/Documents/github/VoipDemo_Speex1",
+      "sdkFolder": "/Users/mac126/Downloads/android-sdk-macosx",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/mac126/Documents/github/VoipDemo_Speex1/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/mac126/Documents/github/VoipDemo_Speex1/app",
+      "makeFile": "/Users/mac126/Documents/github/VoipDemo_Speex1/app/src/main/jni/Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "/Users/mac126/Documents/github/VoipDemo_Speex1/.cxx",
+      "cxxFolder": "/Users/mac126/Documents/github/VoipDemo_Speex1/app/.cxx",
+      "ndkFolder": "/Users/mac126/Downloads/android-sdk-macosx/ndk/21.0.6113669",
+      "ndkVersion": "21.0.6113669",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "soFolder": "/Users/mac126/Documents/github/VoipDemo_Speex1/app/build/intermediates/ndkBuild/release/lib",
+    "objFolder": "/Users/mac126/Documents/github/VoipDemo_Speex1/app/build/intermediates/ndkBuild/release/obj/local",
+    "jsonFolder": "/Users/mac126/Documents/github/VoipDemo_Speex1/app/.cxx/ndkBuild/release",
+    "gradleBuildOutputFolder": "/Users/mac126/Documents/github/VoipDemo_Speex1/app/.cxx/cxx/release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/Users/mac126/Documents/github/VoipDemo_Speex1/app/.cxx/ndkBuild/release/x86_64",
+  "jsonFile": "/Users/mac126/Documents/github/VoipDemo_Speex1/app/.cxx/ndkBuild/release/x86_64/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/mac126/Documents/github/VoipDemo_Speex1/app/.cxx/cxx/release/x86_64",
+  "objFolder": "/Users/mac126/Documents/github/VoipDemo_Speex1/app/build/intermediates/ndkBuild/release/obj/local/x86_64",
+  "buildCommandFile": "/Users/mac126/Documents/github/VoipDemo_Speex1/app/.cxx/ndkBuild/release/x86_64/build_command.txt",
+  "buildOutputFile": "/Users/mac126/Documents/github/VoipDemo_Speex1/app/.cxx/ndkBuild/release/x86_64/build_output.txt",
+  "modelOutputFile": "/Users/mac126/Documents/github/VoipDemo_Speex1/app/.cxx/ndkBuild/release/x86_64/build_model.json",
+  "jsonGenerationLoggingRecordFile": "/Users/mac126/Documents/github/VoipDemo_Speex1/app/.cxx/ndkBuild/release/x86_64/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/mac126/Documents/github/VoipDemo_Speex1/app/.cxx/ndkBuild/release/x86_64/compile_commands.json"
+}
